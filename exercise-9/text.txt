@@ -1,0 +1,7 @@
+Test word from this file.
+
+Exercise 9.49. Characters can have a superscript, 
+above the middle of the line, like d or f, or a subscript, 
+below the middle of the line, like p or g. Write a program 
+that reads a file containing words and reports the longest 
+word that contains neither superscripts nor subscripts.
